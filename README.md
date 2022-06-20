@@ -1,4 +1,4 @@
-# IHCI-Project
+# College Help
 IHCI-Project for DES102 course undertaken under Dr. Rajiv Ratn Shah. <br>
 Our aim was to develop a community-driven platform for resource sharing and provides for students to access appropriate and crucial advice/information from seniors.
 
